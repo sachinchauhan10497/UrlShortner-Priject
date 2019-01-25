@@ -17,8 +17,8 @@ Daily report of no. of shortened-url created(Need to be done async to give the r
 
 Technical Specifications
 
-Language - Java
-Framework - Spring
-Database - MySQL
-Server - Apache Tomcat
-Cache - Redis
+Language - Java,
+Framework - Spring,
+Database - MySQL,
+Server - Apache Tomcat,
+Cache - Redis.
