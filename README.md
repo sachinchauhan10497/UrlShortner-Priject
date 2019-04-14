@@ -1,4 +1,4 @@
-# UrlShortner-Priject
+# UrlShortner-Project
 
 Lil URL - The URL Shortener Project
 
